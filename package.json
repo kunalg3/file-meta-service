@@ -1,7 +1,7 @@
 {
 	"name": "file_metadata",
 	"version": "0.0.1",
-	"author":"abhishek goyal",
+	"author":"Kunal goyal",
 	"description": "API project for freeCodeCamp",
 	"main": "server.js",
 	"scripts": {
